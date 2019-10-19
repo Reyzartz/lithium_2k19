@@ -1,7 +1,7 @@
 {
-  "name": "lithum_2k19",
+  "name": "lithium_2k19",
   "version": "1.0.0",
-  "description": "a website for my annual freshers event lithum",
+  "description": "a website for my annual freshers event lithium",
   "main": "index.html",
   "scripts": {
     "deploy": "gh-pages -d dist",
@@ -13,7 +13,7 @@
   },
   "author": "Reyan Rahman (ReyzArtz)",
   "license": "MIT",
-  "homepage": "http://www.lithum2k19.ml",
+  "homepage": "http://www.lithium2k19.ml",
   "dependencies": {
     "gh-pages": "^2.1.1"
   }
