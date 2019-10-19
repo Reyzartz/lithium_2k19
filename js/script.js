@@ -25,4 +25,3 @@ function open_nav(){
         o=1
     }
 }
-window.addEventListener("resize",()=>{nav.style.display="block";o=0});
