@@ -306,6 +306,9 @@ body{
     padding: 0px;
     overflow: hidden;
 }
+.team-m:nth-child(3){
+    display: none;
+}
 .team-m img{
     height: 25vh;
     width: 25vh;
@@ -549,6 +552,9 @@ footer a img{
     }
     .team-m{
         height: 30vh;
+    }
+    .team-m:nth-child(3){
+        display: block;
     }
     .team-m img{
         height: 18vh;
