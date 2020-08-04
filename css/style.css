@@ -300,8 +300,8 @@ body{
     overflow: hidden;
 }
 .team-m img{
-    height: 20vh;
-    width: 20vh;
+    height: 18vh;
+    width: 18vh;
     object-position: top;
     object-fit: cover;
     border-radius: 50%;
