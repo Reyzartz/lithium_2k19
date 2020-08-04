@@ -5,10 +5,10 @@ let hour = document.getElementById('hour'),
     sec = document.getElementById('sec');
 function showTime(){  
     let today = new Date();
-        hour.innerText=23-today.getHours();
-        min.innerText=59-today.getMinutes();
-        day.innerText= 24-today.getDate();
-        sec.innerText=60-today.getSeconds();
+        hour.innerText="0";
+        min.innerText="0";
+        day.innerText= "0";
+        sec.innerText="0";
         setTimeout(showTime,1000);
 }
 showTime();
